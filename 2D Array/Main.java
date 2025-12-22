@@ -4,8 +4,8 @@ class demonstrateTwoDArray
     {
         int[][] matrix=
                 {{1,2,3},
-                        {4,5,6},
-                        {7,8,9}};
+                 {4,5,6},
+                 {7,8,9}};
         System.out.println("Two-D Array Dimensions:"+matrix.length+"rows x"+matrix[0].length+"columns");
         System.out.println("\nMatrix elements:");
         int total =0;
